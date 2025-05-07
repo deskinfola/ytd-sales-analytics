@@ -2,17 +2,22 @@
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Data Source](#data-source)
+- [Data Source](#data-source) 
 - [Tools](#tools)
-- [Data Cleaning/Preparation](#data-cleaning/preparation)
+- [Data Cleaning/Preparation](#data-cleaning/-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Results/Findings](#results-findings)
-- [Recommendation](#recommendation)  
+- [Recommendations](#recommendations)  
 
 
 ## Project Overview 
 
 This report synthesizes the insights from multiple YTD Sales Dashboards to provide a holistic view of the company's performance across various dimensions, including salespersons, products, geographic regions, total customers, total profit, total amount, and total costs. The goal is to identify key trends, challenges, and opportunities, along with actionable recommendations for improvement.
+
+![DASHBOARD OVERVIEW ](https://github.com/user-attachments/assets/504fb506-70e7-4d3b-bf66-0dae8135d2dc)
+
+
+
 
 ### Data Sources
 
@@ -55,7 +60,7 @@ EDA involved exploring the sales data to answer key questions such as:
   - There are opportunities to enhance customer engagement, optimize costs, and leverage top-performing regions.
 
 
-### Recommendation 
+### Recommendations 
 
 Based on the comprehensive analysis of all the YTD Sales Dashboards, here are key recommendations tailored to address the challenges and opportunities identified in the data. These recommendations are organized into actionable strategies across various dimensions of the business:
 
