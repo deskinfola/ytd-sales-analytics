@@ -11,6 +11,7 @@
 
 
 ## Project Overview 
+---
 
 This report synthesizes the insights from multiple YTD Sales Dashboards to provide a holistic view of the company's performance across various dimensions, including salespersons, products, geographic regions, total customers, total profit, total amount, and total costs. The goal is to identify key trends, challenges, and opportunities, along with actionable recommendations for improvement.
 
