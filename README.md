@@ -165,6 +165,17 @@ Address Sales Decline: In addressing sales decline we need to initiate a Root Ca
 
 
 
+### Contact Details 
+
+#### Adesakin Folasayo,MBA
+#### 📱+234 805 938 9441 📧deskinfola@gmail.com/ adesakinfolasayo@gmail.com
+#### https://www.linkedin.com/in/folasayo-adesakin-mba-28014474/
+
+
+
+
+
+
 
 
 
